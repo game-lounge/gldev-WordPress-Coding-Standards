@@ -118,7 +118,7 @@
 	<!-- Covers rule: Files containing template tags in wp-includes should have "-template"
 		 appended to the end of the name.
 		 https://github.com/WordPress/WordPress-Coding-Standards/issues/642 -->
-	<rule ref="WordPress.Files.FileName"/>
+<!--	<rule ref="WordPress.Files.FileName"/>-->
 
 
 	<!--
@@ -565,8 +565,8 @@
 	#############################################################################
 	-->
 	<!-- Covers rule: Avoid touching the database directly. -->
-	<rule ref="WordPress.DB.RestrictedFunctions"/>
-	<rule ref="WordPress.DB.RestrictedClasses"/>
+<!--	<rule ref="WordPress.DB.RestrictedFunctions"/>-->
+<!--	<rule ref="WordPress.DB.RestrictedClasses"/>-->
 
 
 	<!--

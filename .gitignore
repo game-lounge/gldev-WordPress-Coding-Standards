@@ -3,3 +3,5 @@ composer.lock
 phpunit.xml
 phpcs.xml
 .phpcs.xml
+.idea/
+.DS_Store
