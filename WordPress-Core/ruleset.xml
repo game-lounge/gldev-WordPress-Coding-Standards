@@ -531,7 +531,7 @@
 		 https://github.com/WordPress/WordPress-Coding-Standards/issues/643 -->
 
 	<!-- Covers rule: The short ternary operator must not be used. -->
-	<rule ref="Universal.Operators.DisallowShortTernary"/>
+<!--	<rule ref="Universal.Operators.DisallowShortTernary"/>-->
 
 
 	<!--

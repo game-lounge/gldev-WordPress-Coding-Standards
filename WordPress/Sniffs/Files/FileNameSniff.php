@@ -91,7 +91,7 @@ final class FileNameSniff extends Sniff {
 	 *
 	 * @var bool
 	 */
-	public $strict_class_file_names = true;
+	public $strict_class_file_names = false;
 
 	/**
 	 * Historical exceptions in WP core to the class name rule.
